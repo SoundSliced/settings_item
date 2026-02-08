@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:settings_item/settings_item.dart';
 
 void main() {

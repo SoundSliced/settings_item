@@ -40,7 +40,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  settings_item: ^1.0.0
+  settings_item: ^2.0.0
 ```
 
 Then run:

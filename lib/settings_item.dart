@@ -3,4 +3,4 @@
 /// This library exports all public APIs for the settings_item package.
 library;
 
-export 'src/settings_item.dart';
+export 'package:s_packages/s_packages.dart';
