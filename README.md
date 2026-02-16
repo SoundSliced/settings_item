@@ -40,7 +40,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  settings_item: ^2.0.0
+  settings_item: ^2.1.0
 ```
 
 Then run:
@@ -350,6 +350,9 @@ SettingsExpendableMenu(
 | `expandedWidget` | `Widget?` | `null` | Content shown when expanded |
 | `suffixWidget` | `Widget?` | `null` | Custom widget on the right (overrides default arrow/switch) |
 | `onExpandedSectionToggle` | `VoidCallback?` | `null` | Called when expansion state changes |
+| `subtitle` | `String?` | `null` | Subtitle text displayed below the title |
+| `description` | `String?` | `null` | Description text for additional context |
+| `trailing` | `Widget?` | `null` | Custom trailing widget |
 
 ## Dependencies
 
